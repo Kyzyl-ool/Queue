@@ -1,0 +1,23 @@
+DUMP: QUEUE "Queue" [0x7fb943c02790]
+{	head:	2
+	tail:	8
+	blocks:	2
+
+	data[0]:	-111
+	data[1]:	-111
+	data[2]:	3	<- head
+	data[3]:	4
+	data[4]:	5
+	data[5]:	6
+	data[6]:	7
+	data[7]:	8
+	data[8]:	-111	<- tail
+	data[9]:	-111
+	data[10]:	-111
+	data[11]:	-111
+	data[12]:	-111
+	data[13]:	-111
+	data[14]:	-111
+	data[15]:	-111
+}
+
